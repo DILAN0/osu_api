@@ -14,14 +14,14 @@ Install:
 | score | get_user_scores() | 
 
 Example:
-    
-    from osu_api import core
+'''{.py}
+from osu_api import core
 
-    token = core.osu.get_token('token...')
+token = core.osu.get_token('token...')
 
-    pp = core.osu.pp(token,"DILAN_NAXUY") #get pp
-    scores = core.score.get_scores(token,23764407,"best",0) #json score
-    
+pp = core.osu.pp(token,"DILAN_NAXUY") #get pp
+scores = core.score.get_scores(token,23764407,"best",0) #json score
+'''
  
 
 
