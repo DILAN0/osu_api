@@ -14,7 +14,7 @@ Install:
 | score | get_user_scores() | 
 
 Example:
-'''python
+'''python:
 from osu_api import core
 
 token = core.osu.get_token('token...')
