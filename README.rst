@@ -6,6 +6,7 @@ Osu api for python
 Example:
 
 .. code:: py
+    
     from osu_api import core
 
     token = core.osu.get_token('token...')
