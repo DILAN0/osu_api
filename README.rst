@@ -1,8 +1,6 @@
 osu_api
 ===========
 
-Osu api for python
-
 Example:
 
 .. code:: py
