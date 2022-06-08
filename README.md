@@ -12,6 +12,7 @@ Install:
 |----------------|:---------:|
 | osu | get_token(), pp() | 
 | score | get_user_scores() | 
+
 Example:
     
     from osu_api import core
