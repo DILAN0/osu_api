@@ -14,6 +14,7 @@ Install:
 | score | get_user_scores() | 
 
 Example:
+
 .. code:: py
     from osu_api import core
 
