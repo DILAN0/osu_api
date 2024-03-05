@@ -6,6 +6,8 @@ Install:
     
     pip install osu_api-0.1.tar.gz
 
+    pip install https://github.com/DILAN0/osu_api/archive/master.zip
+
 Example:
 
 .. code:: py
